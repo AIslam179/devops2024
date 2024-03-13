@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T20:07:54 EST" name="Default suite" finished-at="2024-02-28T20:08:05 EST" duration-ms="11589">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T20:07:54 EST" name="Default test" finished-at="2024-02-28T20:08:05 EST" duration-ms="11589">
+      <class name="com.practice2024.DropDownPractice">
+        <test-method is-config="true" signature="driverSetUp()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:07:54 EST" name="driverSetUp" finished-at="2024-02-28T20:07:58 EST" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetUp -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:07:58 EST" name="openBrowser" finished-at="2024-02-28T20:08:02 EST" duration-ms="3383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="registerToMTours()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:02 EST" name="registerToMTours" finished-at="2024-02-28T20:08:03 EST" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerToMTours -->
+        <test-method is-config="true" signature="afterLogin()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:03 EST" name="afterLogin" finished-at="2024-02-28T20:08:03 EST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLogin -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:03 EST" name="openBrowser" finished-at="2024-02-28T20:08:03 EST" duration-ms="408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="select_Country_Options_from_Dropdown()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:03 EST" name="select_Country_Options_from_Dropdown" finished-at="2024-02-28T20:08:04 EST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Country_Options_from_Dropdown -->
+        <test-method is-config="true" signature="afterLogin()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:04 EST" name="afterLogin" finished-at="2024-02-28T20:08:04 EST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLogin -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.practice2024.DropDownPractice@6fa51cd4]" started-at="2024-02-28T20:08:04 EST" name="afterClass" finished-at="2024-02-28T20:08:05 EST" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.practice2024.DropDownPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
